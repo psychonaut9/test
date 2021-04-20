@@ -25,7 +25,7 @@ jobs:
         #  SEMGREP_TIMEOUT: 300
 
         with:
-          publishToken: b96a27cb9694a15d6b0f0ba921d3ba020161babd75a8159d3d70659a93d8bc66 
+          publishToken: 73dc5c701824c8a785da490411ddf2792fe8c0d4f4e84e7475d36f35b60ea159
           publishDeployment: 548
 
           # Never fail the build due to findings on pushes, but collect findings data
