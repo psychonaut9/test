@@ -1,0 +1,18 @@
+site_name: Test
+site_description: Project documentation with Markdown.
+site_author: Test-team
+
+repo_url: https://github.com/psychonaut9/test
+edit_uri: ""
+
+theme:
+    name: mkdocs
+    locale: en
+    analytics: {gtag: 'G-274394082'}
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - django
+
+nav:
+    - Home: README.md
